@@ -1,4 +1,5 @@
 datos = {
     'nombre': 'Ricardo',
-    'apellido': 'Fort'
+    'apellido': 'Fort',
+    'edad': 25
 }
